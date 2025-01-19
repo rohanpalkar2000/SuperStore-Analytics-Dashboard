@@ -3,7 +3,7 @@ The SuperStore Analytics Dashboard is an interactive business intelligence tool 
 
 
 
-![Dashboard Preview](SuperStore_Analytics_Dashboard.png)
+![Dashboard Preview](https://github.com/rohanpalkar2000/SuperStore-Analytics-Dashboard/blob/main/SuperStore%20Analytics%20Dashboard.png)
 
 ## Overview
 This **SuperStore Analytics Dashboard** provides insightful visualizations for analyzing sales, profit, return rates, and more. Built for a retail superstore, it helps in identifying key business metrics and trends to optimize performance.
